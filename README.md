@@ -1,8 +1,8 @@
 <a href="https://www.linkedin.com/in/everton-nazare-829723b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   <a href = "mailto:contato@nazare.everton@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 
 
-# :bell: Un Forastero!! 👋
-## Agarrenlo!! No dejeis que se escape sin dar una estrella :star2:
+# Everton Nazaré !Tedesco
+## :bell: Un Forastero 👋!!  Agarrenlo!! No dejeis que se escape sin dar una estrella :star2:
 - :runner: Aspirante a DEV FULLSTACK
 - :mortar_board: Estudante de Ciência da Computação
 - :nerd_face: Aprendendo as tecnologias:
